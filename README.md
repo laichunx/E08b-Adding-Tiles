@@ -1,4 +1,8 @@
 # E08b-Adding-Tiles
+# Description:
+# In this assignment we practiced how to build Tiles with godot.
+# And we learned how to save node as Scene, and duplicate nodes with it.
+# Moreover, we learned how to change the color of Tiles in the Script.
 
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about groups and scenes and adding tiles to the game.
 
